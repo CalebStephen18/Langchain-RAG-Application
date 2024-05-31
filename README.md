@@ -32,11 +32,6 @@ This repository contains a Flask application designed to provide AI-powered docu
 - The application can be configured by modifying parameters such as host, port, and debug mode in the `start_app()` function.
 - Additional configuration options for specific functionalities can be found within the respective endpoint functions.
 
-## Contributing
-Contributions to this project are welcome. You can contribute by:
-- Submitting bug reports or feature requests through the issue tracker.
-- Forking the repository, making changes, and submitting pull requests for review.
-
 ## Acknowledgments
 - This project utilizes open-source libraries and frameworks without which it would not be possible.
 - Special thanks to the contributors and maintainers of the dependencies used in this project.
